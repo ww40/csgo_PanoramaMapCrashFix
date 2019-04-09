@@ -7,10 +7,10 @@
 public Plugin myinfo =
 {
     name = "[CSGO] Panorama Map Crash Fix",
-    author = "Kashinoda",
+    author = "ww40",
     description = "Prevent client crashes on map change",
     version = "1.4.0",
-    url = "https://github.com/kashinoda/"
+    url = "https://github.com/kashinoda/csgo_PanoramaMapCrashFix/edit/master/PanoramaMapCrashFix.sp"
 };
 
 public void OnPluginStart()
